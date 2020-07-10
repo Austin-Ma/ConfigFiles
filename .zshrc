@@ -1,14 +1,8 @@
 ############################
 # ENVIORNMENT VARIABLES
 ############################
-export TWILIO_ACCOUNT_SID="ACa18f9775ef0fba984ed00746126c223e"
-export TWILIO_AUTH_TOKEN="2176fd76b8bfd0144c9764bc39c3f130"
 export TWILIO_PHONE_NUMBER="+12059003194"
-export CELL_PHONE_NUMBER="+19095481722"
 export EMAIL_ADDRESS="ma.austin.1028@gmail.com"
-export EMAIL_PASSWORD="Fjb8ny#c5pi"
-export CUTTLY_KEY="67739978693696a200f2af7768effbee"
-export TINYPNG_KEY="ggMZBvWKHCng3JPqKdxMblwtWRMdx1gm"
 
 export RED=`tput setaf 1`
 export PINK=`tput setaf 5`
